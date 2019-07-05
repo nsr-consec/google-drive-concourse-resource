@@ -1,1 +1,2 @@
-docker build -t jpatel4pivotal/google-drive-concourse-resource . && docker push jpatel4pivotal/google-drive-concourse-resource
+docker build -t consec/tools:gdrive-concourse-resource . && docker push consec/tools:gdrive-concourse-resource
+
